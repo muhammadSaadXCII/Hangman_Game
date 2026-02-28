@@ -35,7 +35,7 @@ This is a simple implementation of the classic Hangman game using the Flutter fr
     ```
 2.  Navigate to the project directory:
     ```bash
-    cd hangman_game
+    cd Hangman_Game
     ```
 3.  Install the dependencies:
     ```bash
