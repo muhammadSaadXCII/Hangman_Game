@@ -6,11 +6,17 @@ A classic Hangman game built with Flutter.
 
 This is a simple implementation of the classic Hangman game using the Flutter framework. The player tries to guess a hidden word by suggesting letters within a certain number of attempts.
 
+## Screenshots
+
+| Winning | Losing | Gameplay |
+|---|---|---|
+| ![Winning Screen](assets/screenshots/winning.jpg) | ![Losing Screen](assets/screenshots/losing.jpg) | ![Gameplay Screen](assets/screenshots/gameplay.jpg) |
+
 ## Features
 
 *   Classic Hangman gameplay
 *   Clean and simple user interface
-*   Random word generation (from a predefined list)
+*   Random word generation via an API
 *   Visual feedback for correct and incorrect guesses
 *   Display of remaining attempts
 
@@ -76,6 +82,7 @@ hangman_game/
 ## Dependencies
 
 *   `flutter`: The core Flutter framework.
+*   `cupertino_icons`: Provides iOS-style icons.
 *   `http`: For making HTTP requests (if an online word API is used).
 *   `provider`: For state management.
 
