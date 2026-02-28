@@ -31,7 +31,7 @@ This is a simple implementation of the classic Hangman game using the Flutter fr
 
 1.  Clone the repository:
     ```bash
-    git clone https://github.com/your-username/hangman_game.git
+    git clone https://github.com/your-username/Hangman_Game.git
     ```
 2.  Navigate to the project directory:
     ```bash
